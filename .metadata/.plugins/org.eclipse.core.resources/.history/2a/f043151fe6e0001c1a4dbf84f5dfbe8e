@@ -1,0 +1,6 @@
+insert into clientes (nombre, apellido,create_at, email) values('juan camilo','grajales osorio','2017-12-11','osorio7980@gmail.com');
+insert into clientes (nombre, apellido,create_at, email) values	('liam','grajales','2017-12-11','osorio7980@gmail.com');
+insert into clientes (nombre, apellido,create_at, email) values	('tatiana','osorio','2017-12-11','osorio7980@gmail.com');
+insert into clientes (nombre, apellido,create_at, email) values	('carlos alverto','grajales','2017-12-11','osorio7980@gmail.com');
+insert into clientes (nombre, apellido,create_at, email) values	('teresa','osorio','2017-12-11','osorio7980@gmail.com');
+insert into clientes (nombre, apellido,create_at, email) values	('julio','grajales osorio','2017-12-11','osorio7980@gmail.com');
